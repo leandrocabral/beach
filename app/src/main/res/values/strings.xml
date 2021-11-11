@@ -1,3 +1,8 @@
-<resources>
-    <string name="app_name">funds</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Beachs</string>
+    <string name="splash_name" >Praias</string>
+    <string name="title_toolbar_funds">Praias</string>
+    <string name="title_toolbar_detail_funds">Detalhes da Praia</string>
+    <string name="label_fullname_detail_funds">Nome completo da Praia</string>
+    <string name="label_description_detail_funds">Descrição</string>
 </resources>

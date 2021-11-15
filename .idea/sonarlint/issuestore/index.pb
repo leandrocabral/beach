@@ -9,8 +9,6 @@ A
 data/build.gradle,7\2\72c2781d3d9ac8b82a3543f0fba5c796b2975232
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
-d
-4core/src/main/java/br/com/leandroid/core/Resource.kt,f\a\faef752387a0fabf2eb269f7bd2df575da079f92
 k
 ;core/src/main/java/br/com/leandroid/core/DifUtilCallback.kt,a\e\aeae7a15fa2a73fcdee8d8bac6a4a07b89729e3d
 h
@@ -29,9 +27,5 @@ z
 Japp/src/androidTest/java/br/com/leandroid/beach/ExampleInstrumentedTest.kt,e\1\e15caa32eb702685e731fc363ef6894231cfdd8a
 i
 9app/src/main/java/br/com/leandroid/beachs/MainActivity.kt,0\5\05dd8812cdbe3f2394baa2888da3afd95c7a13ad
-@
-app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
-„
-Tdata/src/main/java/br/com/leandroid/data/network/funds/repository/BeachRepository.kt,b\1\b118f321f5153dc184f2f4f8f9d5c4a0ebd17f23
-ˆ
-Xdata/src/main/java/br/com/leandroid/data/network/funds/repository/BeachRepositoryImpl.kt,3\a\3a87af6c0efbaceebfd13491eaa46b4b54d9df40
+h
+8ui/src/main/java/br/com/leandroid/ui/widget/CardBeach.kt,4\d\4dd31c6824cb4724059cf7a3000655c8b2f4da96

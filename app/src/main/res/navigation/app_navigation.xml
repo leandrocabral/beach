@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/bottom_beach">
+
+    <fragment
+        android:id="@+id/bottom_beach"
+        android:name="br.com.leandroid.beachs.presentation.beach.BeachFragment"
+        android:label="Beach"
+        tools:layout="@layout/beach_fragment">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/bottom_maps"
+        android:name="br.com.leandroid.beachs.presentation.maps.MapsFragment"
+        android:label="Maps"
+        tools:layout="@layout/maps_fragment">
+
+    </fragment>
+
+</navigation>

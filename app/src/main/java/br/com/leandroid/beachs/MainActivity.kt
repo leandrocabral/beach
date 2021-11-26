@@ -8,6 +8,7 @@ import android.view.animation.AnimationUtils
 import androidx.appcompat.app.AppCompatActivity
 import br.com.leandroid.beach.R
 import br.com.leandroid.beachs.presentation.beach.BeachActivity
+import br.com.leandroid.beachs.presentation.home.HomeActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -31,7 +32,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onFinish() {
-                val intent = Intent(this@MainActivity, BeachActivity::class.java)
+                val intent = Intent(this@MainActivity, HomeActivity::class.java)
                 startActivity(intent)
                 finish()
             }

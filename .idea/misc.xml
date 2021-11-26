@@ -3,12 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12222222222222222" />
         <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/drawable/logo.xml" value="0.1" />
         <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/layout/activity_main.xml" value="0.13541666666666666" />
         <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/layout/beach_activity.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/layout/beach_fragment.xml" value="0.1" />
         <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/layout/detail_funds_activity.xml" value="0.1" />
         <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/layout/funds_activity.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/layout/home_activity.xml" value="0.2" />
         <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/layout/item_beach.xml" value="0.1046875" />
+        <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/layout/maps_fragment.xml" value="0.12454710144927536" />
+        <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/menu/menu.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/Freelancer/project/mobile/beach/app/src/main/res/menu/menu_main.xml" value="0.1" />
         <entry key="..\:/Users/Freelancer/project/mobile/beach/ui/src/main/res/layout/card_funds_widget.xml" value="0.15885416666666666" />
       </map>
     </option>

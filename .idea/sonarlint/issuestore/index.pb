@@ -17,8 +17,6 @@ i
 9core/src/main/java/br/com/leandroid/core/BaseViewModel.kt,9\d\9da51dfe67455edfaddd4ade959b1f91cbb2c7a7
 o
 ?domain/src/main/java/br/com/leandroid/domain/di/DomainModule.kt,0\2\023880e0320195e0233247b3f5fe99172af373b5
-{
-Kapp/src/androidTest/java/br/com/leandroid/beachs/ExampleInstrumentedTest.kt,b\1\b1ab488c3b7afbdb987b575a3119c58c761b0a61
 z
 Japp/src/androidTest/java/br/com/leandroid/beach/ExampleInstrumentedTest.kt,e\1\e15caa32eb702685e731fc363ef6894231cfdd8a
 h
@@ -41,10 +39,6 @@ d
 Napp/src/main/java/br/com/leandroid/beachs/presentation/beach/BeachViewModel.kt,6\4\6441edd3cb8f8523d527ebf4bd1b2aa818958596
 A
 gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-i
-9app/src/main/java/br/com/leandroid/beachs/MainActivity.kt,0\5\05dd8812cdbe3f2394baa2888da3afd95c7a13ad
 }
 Mapp/src/main/java/br/com/leandroid/beachs/presentation/beach/BeachActivity.kt,a\b\ab33157ebac9576bb5d98673ba474afb2b22055b
 k

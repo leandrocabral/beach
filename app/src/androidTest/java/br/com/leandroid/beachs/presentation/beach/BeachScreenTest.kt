@@ -5,8 +5,11 @@ import androidx.fragment.app.testing.launchFragmentInContainer
 import androidx.test.espresso.Espresso.onView
 import androidx.test.espresso.assertion.ViewAssertions
 import androidx.test.espresso.matcher.ViewMatchers
+import androidx.test.espresso.matcher.ViewMatchers.withId
 import androidx.test.rule.ActivityTestRule
+import br.com.leandroid.beach.R
 import br.com.leandroid.beachs.presentation.home.HomeActivity
+import org.hamcrest.Matchers.allOf
 import org.junit.Rule
 import org.junit.Test
 
@@ -21,7 +24,20 @@ class BeachScreenTest {
 
         launchFragmentInContainer<BeachFragment>()
 
-        onView(ViewMatchers.withText("Praia Costa Azul"))
+        onView(ViewMatchers.withText("Praias"))
+            .check(ViewAssertions.matches(ViewMatchers.isDisplayed()))
+
+    }
+
+
+    @Test
+    fun show_beach_list_when_open_two_test() {
+        val fragmentArgs = Bundle()
+
+        launchFragmentInContainer<BeachFragment>()
+
+        onView(allOf(ViewMatchers.withText("Praias"),
+            withId(R.id.beach_recyclerview)))
             .check(ViewAssertions.matches(ViewMatchers.isDisplayed()))
 
     }
